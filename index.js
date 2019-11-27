@@ -20,6 +20,6 @@ function sayHiToGrandma(string){
     return "YES INDEED!";
   else if(string == whisper(string))
     return "I can't hear you!";
-    //retur
+    //not sure what to return if not all cap or lower
     return "idk what to put :o???"
 }
