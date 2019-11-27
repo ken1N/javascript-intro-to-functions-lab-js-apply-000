@@ -3,9 +3,9 @@ function shout(string){
 }
 
 function logShout(string){
-  console.log(shout(string));
+  return console.log(shout(string));
 }
 
 function logWhisper(string){
-  console.log(string.toLowerCase());
+  return console.log(string.toLowerCase());
 }
